@@ -1,0 +1,3 @@
+rootProject.name = 'Spoonge'
+include 'OurCraft'
+include 'SpongeAPI'
