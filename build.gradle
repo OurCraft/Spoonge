@@ -1,5 +1,5 @@
 apply plugin: 'java'
-apply plugin: 'checkstyle'
+//apply plugin: 'checkstyle'
 apply plugin: 'maven'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
